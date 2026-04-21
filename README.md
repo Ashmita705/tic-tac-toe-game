@@ -12,9 +12,9 @@ A simple two-player Tic Tac Toe game built using HTML, CSS, and JavaScript. Play
 Open index.html in your browser
 
 ## Preview
-![Game Start](assets/game-start.png)
-![Game Win](assets/game-win.png)
-![Game Draw](assets/game-draw.png)
+![Game Start](assets/start.png)
+![Game Win](assets/win.png)
+![Game Draw](assets/draw.png)
 
 ## Tech Used
 - HTML
