@@ -13,7 +13,8 @@ Open index.html in your browser
 
 ## Preview
 ![Game Start](assets/game-start.png)
-![Game Result](assets/game-result.png)
+![Game Win](assets/game-win.png)
+![Game Draw](assets/game-draw.png)
 
 ## Tech Used
 - HTML
